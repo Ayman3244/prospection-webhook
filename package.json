@@ -1,22 +1,8 @@
 {
   "name": "prospection-webhook",
   "version": "1.0.0",
+  "type": "commonjs",
   "engines": {
     "node": "18.x"
   }
 }
-```
-
-4. Clique sur **"Commit changes"**
-
----
-
-### Vérifie aussi la structure complète
-
-Ton repo doit ressembler **exactement** à ça :
-```
-prospection-webhook/
-├── api/
-│   └── webhook.js
-├── package.json
-└── README.md
